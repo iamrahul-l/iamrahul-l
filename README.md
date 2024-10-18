@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Dice Roll Game**
 
-- 🌱 I’m currently learning **Javascript, React.js, Node.js**
+- 🌱 I’m currently learning **Javascript, Jqurey, React.js and  Node.js**
 
 - 📫 How to reach me **rl340651@gmail.com**
 
