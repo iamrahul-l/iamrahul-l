@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahul-l&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahul-l" /> </p>
 
-- 🔭 I’m currently working on [Simon Game](https://github.com/iamrahul-l/Simon-Game)
+- 🔭 I’m currently working on [B-Blog](https://github.com/iamrahul-l/Simon-Game)
 
 - 🌱 I’m currently learning **JavaScript, JQuery, React.js, Node.js**
 
