@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [P2S](https://github.com/iamrahul-l/print2sides)
 
-- 🌱 I’m currently learning **PostgreSQL, JavaScript, JQuery, React.js, Node.js**
+- 🌱 I’m currently learning **PostgreSQL, React.js**
 
 - 👨‍💻 All of my projects are available at [https://iamrahul-l.github.io/capstone-project-portfolio/](https://iamrahul-l.github.io/capstone-project-portfolio/)
 
