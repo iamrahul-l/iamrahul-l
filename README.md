@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul L</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahul-l&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahul-l" /> </p>
 
-- 🔭 I’m currently working on [B-Blog](https://github.com/iamrahul-l/B-blog-Node-express-EJS)
+- 🔭 I’m currently working on [P2S](https://github.com/iamrahul-l/print2sides)
 
-- 🌱 I’m currently learning **JavaScript, JQuery, React.js, Node.js**
+- 🌱 I’m currently learning **PostgreSQL, JavaScript, JQuery, React.js, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://iamrahul-l.github.io/capstone-project-portfolio/](https://iamrahul-l.github.io/capstone-project-portfolio/)
 
