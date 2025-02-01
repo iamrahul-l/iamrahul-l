@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahul-l&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahul-l" /> </p>
 
-- 🔭 I’m currently working on [P2S](https://github.com/iamrahul-l/print2sides)
+- 🔭 I’m currently working on [Ai🤖-travel-planner](https://github.com/iamrahul-l/print2sides)
 
-- 🌱 I’m currently learning **PostgreSQL, React.js**
+- 🌱 I’m currently learning **Java, SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://iamrahul-l.github.io/capstone-project-portfolio/](https://iamrahul-l.github.io/capstone-project-portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/iamrahul-l](https://github.com/iamrahul-l/)
 
 - 📫 How to reach me **rl340651@gmail.com**
 
