@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahul-l&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahul-l" /> </p>
 
-- 🔭 I’m currently working on [Ai🤖-travel-planner](https://github.com/iamrahul-l/print2sides)
+- 🔭 I’m currently working on [Ai🤖-travel-planner](https://github.com/iamrahul-l/Ai-tripplanner)
 
 - 🌱 I’m currently learning **Java, SpringBoot**
 
