@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahul L</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h3 align="center">A passionate full stack developer and Mechanical Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahul-l&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahul-l" /> </p>
 
 - 🔭 I’m currently working on [Ai🤖-travel-planner](https://github.com/iamrahul-l/Ai-tripplanner)
 
 - 🌱 I’m currently learning **Java, SpringBoot**
+
+- I Own all my projects. And some say i dont, CS guys were shocked.
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamrahul-l](https://github.com/iamrahul-l/)
 
